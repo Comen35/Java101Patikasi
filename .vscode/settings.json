@@ -3,6 +3,7 @@
         "Taximeter/src",
         "CalculatorKDV/src",
         "CalculatingAreaOfTriangle/src",
-        "CalculatingAreaOfASector/src"
+        "CalculatingAreaOfASector/src",
+        "BodyMassIndexCalculator/src"
     ]
 }
