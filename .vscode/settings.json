@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "CalculatorKDV/src",
-        "CalculatingAreaOfTriangle/src"
+        "CalculatingAreaOfTriangle/src",
+        "Taximeter/src"
     ]
 }
