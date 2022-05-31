@@ -1,11 +1,11 @@
 {
     "java.project.sourcePaths": [
         "Taximeter/src",
-        "GreenGrocerCahsBox/src",
+        "GreenGrocerCashBox/src",
         "CalculatorKDV/src",
         "CalculatingAreaOfTriangle/src",
         "CalculatingAreaOfASector/src",
         "BodyMassIndexCalculator/src",
-        "GreenGrocerCashBox/src"
+        "Calculator/src"
     ]
 }
