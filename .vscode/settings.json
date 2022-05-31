@@ -3,9 +3,10 @@
         "Taximeter/src",
         "GreenGrocerCashBox/src",
         "CalculatorKDV/src",
+        "Calculator/src",
         "CalculatingAreaOfTriangle/src",
         "CalculatingAreaOfASector/src",
         "BodyMassIndexCalculator/src",
-        "Calculator/src"
+        "UserLogin/src"
     ]
 }
