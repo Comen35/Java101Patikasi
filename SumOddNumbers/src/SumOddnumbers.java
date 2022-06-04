@@ -8,7 +8,7 @@ public class SumOddnumbers {
         System.out.println("\t\t\t************************************");
         System.out.println("\t\t\t*                                  *");
         System.out.println("\t\t\t*       SUM OF ODD NUMBERS         *");
-        System.out.println("\t\t\t* Enter even number for exit   *");
+        System.out.println("\t\t\t* Enter even number for exit       *");
         System.out.println("\t\t\t*                                  *");
         System.out.println("\t\t\t************************************");
 
